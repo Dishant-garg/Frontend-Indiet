@@ -2,15 +2,15 @@ import React from 'react'; // Import React for component creation
 
 const healthyVideos = [
   {
-    url: "https://www.youtube.com/watch?v=fqhYBTg73fw", // Full YouTube URL
+    url: "https://www.youtube.com/watch?v=fqhYBTg73fw", 
     title: "What's the Best Diet? Healthy Eating 101",
   },
   {
-    url: "https://www.youtube.com/watch?v=Q4yUlJV31Rk", // Full YouTube URL
+    url: "https://www.youtube.com/watch?v=Q4yUlJV31Rk", 
     title: "How to make healthy eating unbelievably easy",
   },
   {
-    url: "https://www.youtube.com/watch?v=AYXfaVD5o40", // Full YouTube URL
+    url: "https://www.youtube.com/watch?v=AYXfaVD5o40", 
     title: "Cheap And Healthy Meals For The Week, Done In 1 Hour",
   },
   {
